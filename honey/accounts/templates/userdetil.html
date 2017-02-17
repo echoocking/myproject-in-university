@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<!--
+	Identity by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html xmlns="http://www.w3.org/1999/html">
+	<head>
+		<title>Identity by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../../static/assets/css/main1.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="../../static/assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-loading">
+
+{#{% if classfy in class_all %}#}
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="../../static/images/avatar.jpg" alt="" /></span>
+							<!-- <h1>Jane Doe</h1>
+							<p>Senior Psychonautics Engineer</p> -->
+						</header>
+						<!-- <hr /> -->
+						<h2>信息完善</h2>
+                        <script type="text/javascript">
+                            function judgment() {
+                                for (var i = 0; i < document.form.elements.length - 1; i++) {
+                                    if (document.form.elements[i].value == "") {
+                                        if (document.form.elements[i].name == "name") {
+                                            alert("请填写收件人");
+                                            document.form.elements[i].focus();
+                                            return false;
+                                        }
+                                        else if (document.form.elements[i].name == "message") {
+                                            alert("请填写介绍");
+                                            document.form.elements[i].focus();
+                                            return false;
+                                        }
+                                        else if (document.form.elements[i].name == "number") {
+                                            alert("请填写联系方式");
+                                            document.form.elements[i].focus();
+                                            return false;
+                                        }
+                                        else if (document.form.elements[i].name == "address") {
+                                            alert("请填写地址");
+                                            document.form.elements[i].focus();
+                                            return false;
+                                        }
+                                        else if (document.form.elements[i].name == "human") {
+                                            alert("确定不是机器,请勾选哦!");
+                                            document.form.elements[i].focus();
+                                            return false;
+                                        }
+
+                                    }
+                                }
+                                return true;
+                            }
+                        </script>
+						<form name="form" method="post" onsubmit="return judgment()" action="/accounts/userimfor?id_info={{ class_all.id }}" >
+
+                            <div class="field">
+                            <label class="label">收件人:</label>
+							<div class="field" id ="field">
+								<input type="text" name="name" id="name" value={{ class_all.name }}  >
+							</div>
+                            一句话介绍:
+							<div class="field" id ="field">
+								<input type="text" name="message" id="message" value={{ class_all.userdescribe }}  >
+							</div>
+                            联系电话
+							<div class="field">
+                                <input type="text" name = "number" id="number" value={{ class_all.number }}  >
+{#								<div class="select-wrapper">#}
+{#									<select name="sexy" id="department" >#}
+{#										<option value="man">男</option>#}
+{#										<option value="sales">Sales</option>#}
+{#										<option value="tech">Tech Support</option>#}
+{#										<option value="women">女</option>#}
+{#									</select>#}
+								</div>
+							</div>
+                            收货地址:
+							<div class="field" id ="field">
+{#								<textarea typeof="text" id="address" name = "address" rows="4" placeholder={{ class_all.address }}  value={{ class_all.address }}></textarea>#}
+                                <input type="text" name = "address" id="address" value={{ class_all.address }}   >
+{#                                placeholder={{ class_all.address }}#}
+{#                                placeholder={{ class_all.number }}#}
+{#                                placeholder={{ class_all.userdescribe }}#}
+{#                                placeholder={{ class_all.username }}#}
+							</div>
+							<div class="field">
+								<input type="checkbox" id="human" name="human" /><label for="human">我不是机器人</label>
+							</div>
+{#							<div class="field">#}
+{#								<label>But are you a robot?</label>#}
+{#								<input type="radio" id="robot_yes" name="robot" /><label for="robot_yes">Yes</label>#}
+{#								<input type="radio" id="robot_no" name="robot" /><label for="robot_no">No</label>#}
+{#							</div>#}
+{#                            ?id_info={{ class_all.id }}#}
+							<input type="submit" name="do" value="执行">
+						</form>
+
+						<hr />
+						
+						<!-- <footer>
+							<ul class="icons">sd
+								<li><a href="#" class="fa-twitter">Twitter</a></li>
+								<li><a href="#" class="fa-instagram">Instagram</a></li>
+								<li><a href="#" class="fa-facebook">Facebook</a></li>
+							</ul>
+						</footer> -->
+					</section>
+			</div>
+{#{% endif %}#}
+		<!-- Scripts -->
+			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
+	</body>
+</html>

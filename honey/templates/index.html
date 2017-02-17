@@ -1,0 +1,360 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>SECOND HAND BOOK FOR STUDENT</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="../static/assets/css/main.css"/>
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <style>
+
+        #search {
+
+        }
+
+        #search input[type="text"] {
+            background: url(../static/images/search-white.png) no-repeat 10px 6px rgba(80, 125, 181, 0);
+            border: 10px none;
+            font: lighter 13px Arial, Helvetica, Sans-serif;
+            color: #d7d7d7;
+            width: 100px;
+            padding: 6px 15px 4px 25px;
+            -webkit-border-radius: 20px;
+            -moz-border-radius: 20px;
+            border-radius: 20px;
+            text-shadow: 0 1px 1px #000000;
+            -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+            -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+            box-shadow: 0 1px 0 #c4186a, 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+            -webkit-transition: all 0.7s ease 0s;
+            -moz-transition: all 0.7s ease 0s;
+            -o-transition: all 0.7s ease 0s;
+            transition: all 0.7s ease 0s;
+        }
+
+        #search input[type="text"]:focus {
+            background: url(../static/images/search-dark.png) no-repeat 10px 6px #ffffff;
+            color: #f51b6e;
+            width: 300px;
+            -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
+            -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
+            box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
+            text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+<!-- Sidebar -->
+<section id="sidebar">
+    <div class="inner">
+        <nav>
+            <ul>
+                <li><a href="#intro">欢迎</a></li>
+                <li><a href="#one">二手教材</a></li>
+                <li><a href="#two">发布教材</a></li>
+                <li><a href="#three">关于我们</a></li>
+                <li>
+                    <form method="get" action="/search?search" id="search" name="search">
+                        <input name="q" type="text" size="40" placeholder="书名检索"/>
+                    </form>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</section>
+
+<!-- Wrapper -->
+<div id="wrapper">
+    <!-- Intro -->
+    <section id="intro" class="wrapper style1 fullscreen fade-up">
+        <script type="text/javascript">
+            function getCookie(c_name) {
+                if (document.cookie.length > 0) {
+                    c_start = document.cookie.indexOf(c_name + "=")
+                    if (c_start != -1) {
+                        c_start = c_start + c_name.length + 1
+                        c_end = document.cookie.indexOf(";", c_start)
+                        if (c_end == -1) c_end = document.cookie.length
+                        return unescape(document.cookie.substring(c_start, c_end))
+                    }
+                }
+                return ""
+            }
+            var username = getCookie("username")
+            var id =getCookie("id")
+{#            alert(id)#}
+            if (username == "") {
+                {#                                alert("未登陆")#}
+            } else {
+{#                alert("欢迎回来\n" + username)#}
+                window.onload = function () {
+                    document.getElementById("xingxi").innerHTML =
+                            document.getElementById("xingxi").innerHTML.replace("登陆", username).replace("注册", "登出")
+                                    .replace("/accounts/login/", "/accounts/logout/").replace("/accounts/register", "accounts/showuserimfor?id_info="+id);
+                }
+            }
+        </script>
+        <div class="inner"  id="xingxi">
+            <a href="/accounts/register">登陆</a>
+            <a href="/accounts/login/">注册</a>
+        </div>
+        <div class="inner">
+            <h1>SECOND HAND BOOK FOR STUDENT</h1>
+            <p>我们不生产书，我们只是大自然的搬运工<br>
+                一棵二十岁的树可造3000张A4纸<br>
+                一本书大概200张<br>
+                一个学期 等于 一棵树<br>
+                保护地球，保护我们的生存环境。
+            </p>
+            <ul class="actions">
+                <li><a href="#one" class="button scrolly">目录</a></li>
+            </ul>
+        </div>
+    </section>
+    <!-- One -->
+    <section id="one" class="wrapper style2 spotlights">
+        <section>
+            <a href="#" class="image"><img src="../static/images/pic01.jpg" alt="" data-position="center center"/></a>
+            <div class="content">
+                <div class="inner">
+                    <h2>大学教材</h2>
+                    <p>专业书籍，非专业书籍，应有尽有<br>
+                        囊括大学四年以及研究生书籍，200多种书籍，在这里你都能找到。
+                    </p>
+                    <ul class="actions">
+                        <li><a href="/negotiator?kind" class="button">进入</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section>
+            <a href="#" class="image"><img src="../static/images/pic02.jpg" alt="" data-position="center center"/></a>
+            <div class="content">
+                <div class="inner">
+                    <h2>高中教材</h2>
+                    <p>繁多的书籍，在这里，你可以出售你的高中书籍，也可以补充你丢失或者因为种种原因失踪了的课本，争霸高考，迫在眉睫。</p>
+                    <ul class="actions">
+                        <li><a href="/negotiator?kind=高中" class="button">进入</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section>
+            <a href="#" class="image"><img src="../static/images/pic03.jpg" alt="" data-position="center center"/></a>
+            <div class="content">
+                <div class="inner">
+                    <h2>初中教材</h2>
+                    <p>瑞士科学家研究发现，在学期开始前进行预习可以大大提高课堂的接受能力和学习效率。</p>
+                    <ul class="actions">
+                        <li><a href="/negotiator?kind=初中" class="button">进入</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section>
+            <a href="#" class="image"><img src="../static/images/pic04.jpg" alt=""
+                                           data-position="center center"/></a>
+            <div class="content">
+                <div class="inner">
+                    <h2>小学教材</h2>
+                    <p>小学生不仅要打LOL，还要学习课文。</p>
+                    <ul class="actions">
+                        <li><a href="/negotiator?kind=小学" class="button">进入</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </section>
+
+    <!-- Two -->
+    <section id="two" class="wrapper style3 fade-up">
+        <script type="text/javascript">
+            function judgment() {
+                for (var i = 0; i < document.form1.elements.length - 1; i++) {
+                    if (document.form1.elements[i].value == "") {
+                        if (document.form1.elements[i].name == "bookname") {
+                            alert("请填写书名");
+                            document.form1.elements[i].focus();
+                            return false;
+                        }
+                        else if (document.form1.elements[i].name == "price") {
+                            alert("请填写价格");
+                            document.form1.elements[i].focus();
+                            return false;
+                        }
+                        else if (document.form1.elements[i].name == "booknumber") {
+                            alert("请填写数量");
+                            document.form1.elements[i].focus();
+                            return false;
+                        }
+                        else if (document.form1.elements[i].name == "classify") {
+                            alert("请选择分类");
+                            document.form1.elements[i].focus();
+                            return false;
+                        }
+                        else if (document.form1.elements[i].name == "discribe") {
+                            alert("请填写描述");
+                            document.form1.elements[i].focus();
+                            return false;
+                        }
+                        else if (document.form1.elements[i].name == "picturename") {
+                            alert("请添加图片");
+                            document.form1.elements[i].focus();
+                            return false;
+                        }
+                    }
+                }
+                return true;
+            }
+        </script>
+        <div class="inner">
+            <form method="post" onsubmit="return judgment()" name="form1" id="imfor" action="/skim/imformation"
+                  enctype="multipart/form-data">
+                {% csrf_token %}
+                <div class="field">
+                    <label for="bonam">书名</label>
+                    <input type="text" name="bookname" id="name"/>
+                </div>
+                <div class="field half first">
+                    <label for="bopri">价格</label>
+                    <input type="text" name="price" id="email"/>
+                </div>
+                <div class="field half">
+                    <label for="bopri">数量</label>
+                    <input type="text" name="booknumber" id="email"/>
+                </div>
+                <div class="field">
+                    <label for="bocri">分类</label>
+                    <input type="radio" name="classify" value="大学"/>大学
+                    <input type="radio" name="classify" value="高中"/>高中
+                    <input type="radio" name="classify" value="初中"/>初中
+                    <input type="radio" name="classify" value="初中"/>小学
+                </div>
+                <div class="field">
+                    <label for="bopri">描述</label>
+                    <textarea name="discribe" id="message" rows="5"></textarea>
+                </div>
+                {#                             <form action="/skim/upimg" id="up_img" method="post" enctype="multipart/form-data">#}
+                {#                            {% csrf_token %}#}
+                {#                            <ul class="actions">#}
+                {#                                 #}
+                {#                                <li><a type="file" href="" class="button submit">上传图片</a></li>#}
+                {#                            </ul>#}
+                {#                            </form>#}
+                <style>
+                    .div1 {
+                        float: left;
+                        height: 50px;
+                        background: #3c3c3c;
+                        width: 144px;
+                        position: relative;
+                        -moz-border-radius: 30px;
+                        -webkit-border-radius: 30px;
+                    }
+
+                    .div2 {
+                        text-align: center;
+                        padding-top: 12px;
+                        font-size: 15px;
+                        font-weight: 800
+                    }
+
+                    .inputstyle {
+                        width: 144px;
+                        height: 41px;
+                        cursor: pointer;
+                        font-size: 30px;
+                        outline: medium none;
+                        position: absolute;
+                        filter: alpha(opacity=0);
+                        -moz-opacity: 0;
+                        opacity: 0;
+                        left: 0px;
+                        top: 0px;
+                    }
+                </style>
+                <ul class="actions">
+                    <li>
+                        <div class="div1">
+                            <div class="div2">上传图片</div>
+                            <input class="inputstyle" type="file" name="picturename">
+                        </div>
+                    </li>
+                    <li><a href="" class="button submit">提交书籍</a></li>
+                </ul>
+            </form>
+        </div>
+    </section>
+
+    <!-- Three -->
+    <section id="three" class="wrapper style1 fade-up">
+        <div class="inner">
+            <h2>Get in touch</h2>
+
+            <div class="split style1">
+                <section>
+                    <p>这个网站是一个专注于通过二手书籍买卖来促进地球资源循环利用的网站。<br><br>
+                        发起者均是ECHOOCKING,开发者为BIGMERCU和ECHOOCKING。<br><br>
+                        当全球都在呼吁保护我们的生存环境的时候，我没有这样。<br><br>
+                        因为我想去做。<br><br>
+                        这个网站不以盈利为目的，希望大家能帮助我一起让它更好。
+                    </p><br>
+                </section>
+                <section>
+                    <ul class="contact">
+                        <li>
+                            <h3>Address</h3>
+											<span>Jiang Xi Jxust<br/>
+											CHINA</span>
+                        </li>
+                        <li>
+                            <h3>Email</h3>
+                            <a href="#">echooc@outlook.com</a>
+                        </li>
+                        <li>
+                            <h3>Phone</h3>
+                            <span>155 7988 XXXX</span>
+                        </li>
+                        <li>
+                            <!--<h3>Social</h3>
+                            <ul class="icons">
+                                <li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
+                                <li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
+                                <li><a href="#" class="fa-github"><span class="label">GitHub</span></a></li>
+                                <li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
+                                <li><a href="#" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                            </ul>-->
+                        </li>
+                    </ul>
+                </section>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+<!-- Footer -->
+<footer id="footer" class="wrapper style1-alt">
+    <div class="inner">
+        <ul class="menu">
+            <li>&copy;ECHOOC All rights reserved.</li>
+            <li>Design: ECHOOCKING & BIGMERCU</li>
+        </ul>
+    </div>
+</footer>
+
+<!-- Scripts -->
+<script src="../static/assets/js/jquery.min.js"></script>
+<script src="../static/assets/js/jquery.color.js"></script>
+<script src="../static/assets/js/script.js"></script>
+<script src="../static/assets/js/jquery.scrollex.min.js"></script>
+<script src="../static/assets/js/jquery.scrolly.min.js"></script>
+<script src="../static/assets/js/skel.min.js"></script>
+<script src="../static/assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="../static/assets/js/main.js"></script>
+
+</body>
+</html>

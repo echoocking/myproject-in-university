@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>Material Login Form</title>
+    
+    
+    <link rel="stylesheet" href="../../static/assets/css/reset.css">
+
+{#    <link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900|RobotoDraft:400,100,300,500,700,900'>#}
+{#<link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>#}
+		<link rel="stylesheet" href="../../static/assets/FontAwesome/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="../../static/assets/css/style.css">
+    
+  </head>
+
+  <body>
+
+    
+<!-- Mixins-->
+<!-- Pen Title-->
+<div class="pen-title">
+  <h1>登录 & 注册 </h1><span>投我以木李，报之以<i class='fa fa-code'></i>  <a href='#'>琼玖</a></span>
+</div>
+<div class="container">
+  <div class="card"></div>
+  <div class="card">
+    <h1 class="title">Login</h1>
+      <form   id="login" action="/accounts/denglu/" method="post">
+       {% csrf_token %}
+      <div class="input-container">
+        <input type="text" name="username" id="Username" required="required"/>
+        <!--label for="Username">用户名</label-->
+          <label for="{{ form.email }}">邮箱登录</label>
+        <div class="bar"></div>
+      </div>
+      <div class="input-container">
+        <input type="password" name="password" id="Password" required="required"/>
+        <!--label for="Password">密码</label-->
+          <label for="{{ form.password }}">密码</label>
+        <div class="bar"></div>
+      </div>
+      <div class="button-container">
+        <button onclick="checkUser()"><span>登录</span></button>
+      </div>
+      <div class="footer"><a href="#">忘记密码？</a></div>
+    </form>
+  </div>
+  <div class="card alt">
+    <div class="toggle"></div>
+{#      <i class="icon-plus"></i>#}
+    <h1 class="title">Register
+      <div class="close"></div>
+    </h1>
+    <form id="register" action="/accounts/register/" method="post">
+        {% csrf_token %}
+      <div class="input-container">
+        <input type="text"  name="username"  id="RUsername" required="required"/>
+{#        <label for="Username">用户名</label>           #}
+          <label for="{{ form.username }}">用户名</label>
+        <div class="bar"></div>
+      </div>
+      <div class="input-container">
+        <input type="password" name="password" id="RPassword" required="required"/>
+{#        <label for="Password">密码</label>#}
+                    <label for="{{ form.password }}">密码</label>
+        <div class="bar"></div>
+      </div>
+      <div class="input-container">
+        <input type="text" name ="email" id="REmail" required="required"/>
+                    <label for="{{ form.email }}">EMAIL</label>
+        <div class="bar"></div>
+      </div>
+        <div class="button-container">
+        <button onclick="checkUser1()"><span>注册</span></button>
+            </div>
+    </form>
+  </div>
+</div>
+    <script src='../../static/assets/js/jquery.min.js'></script>
+        <script src="../../static/assets/js/index.js"></script>
+  </body>
+</html>

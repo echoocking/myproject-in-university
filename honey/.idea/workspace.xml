@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30686b5e-333f-49d2-88bd-842cdbb63448" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.com.apple.timemachine.supported" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/img/contribution-sample.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/img/fort_awesome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/img/icon-flag.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/js/ZeroClipboard-1.1.7.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/images/download_pattern_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/images/download_pattern_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/images/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/images/weibo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/roboto-slab-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog-icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog-icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog-icon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/close2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/close2h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/facebookh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/facebooks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/fav-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/fax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/google+.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/map-pin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/nav-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pic01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pic02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pic03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pic04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pic05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pic06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pic10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pic12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/reply.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/search-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/search-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/search-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/single-post-pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/start-rate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/start-rateh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/twiter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/user-pic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/A.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/A.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/AA.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/AA_65ZCoLe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/AA_JVVBUkO.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/A_2Ifomep.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/A_7zwT7XD.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/A_J2eQlPZ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/A_e6vR7p8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/A_nTf7X3p.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/A_pTPoY0L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/S.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/VV.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/VV_AgeZzND.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b_BFtE7ZQ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b_NCkTMbq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b_NM7nLzV.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b_O9g1Y6k.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b_TVZ7Qn0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b_Y2bvrrd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b_e11JJsC.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b_e14Sw4i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uplodeimages/b_jUYjuoT.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/honey.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/.idea/Django.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/0002_user_email.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/templates/regsucc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/templates/userdetil.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detil/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detil/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/detil/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firpage/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firpage/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firpage/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firpage/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firpage/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firpage/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firpage/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firpage/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/.idea/honey.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/honey/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/migrations/0002_auto_20160103_0503.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/migrations/0003_imfromation_username.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/migrations/0004_imfromation_picturename.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/migrations/0005_imfromation_booknumber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skim/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/.ruby-version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/css/font-awesome-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/ads/carbon-dark-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/ads/carbon-light-horizontal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/ads/carbon-light-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/brand-license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/cheatsheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/community.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/community/getting-support.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/community/project-milestones.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/community/reporting-bugs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/community/requesting-new-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/community/submitting-pull-requests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/animated-spinner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/bordered-pulled.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/bulleted-lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/button-dropdowns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/button-groups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/form-inputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/inline-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/larger-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/rotated-flipped.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/examples/stacked.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/get-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/icons/brand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/icons/currency.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/icons/directional.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/icons/medical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/icons/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/icons/text-editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/icons/video-player.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/icons/web-application.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/jumbotron-slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/jumbotron.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/license-code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/stripe-ad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/stripe-social.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/tell-me-thanks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/tests/rotated-flipped-inside-anchor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/tests/rotated-flipped-inside-btn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/tests/rotated-flipped.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/tests/stacked-inside-anchor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/tests/stacked.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/thanks-to.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/whats-new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_includes/why.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_layouts/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_layouts/icon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_plugins/icon_page_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/_plugins/site.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/css/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/css/pygments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/js/ZeroClipboard-1.1.7.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/js/backbone.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/js/bootstrap-2.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/js/bootstrap-222.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/js/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/js/prettify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/js/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/js/underscore.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/hero-unit.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/labels-badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/layouts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-1200px-min.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-767px-max.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-768px-979px.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/sprites.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/lazy.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/responsive-1200px-min.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/responsive-767px-max.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/responsive-768px-979px.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/responsive-navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/site.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/sticky-footer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/assets/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/cheatsheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/community.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/design.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/get-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/icons.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/FontAwesome/src/whats-new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/04146b04.main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/1936a41e.icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/1978.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/297ada75.home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/d04378b9.tools.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/ie9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/images/intro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/main1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/noscript.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/rotating-card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/11b853e1.main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/7422b346.vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/PIE.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/d18f1a3a.home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/f8161886.ngapp-manage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/ie/PIE.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/ie/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/ie/jquery.imagesloaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/ie/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery.a.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery.imagesloaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery.scrollex.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery.scrolly.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/jquery.wookmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/skel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/base/_page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/base/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_box.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_button.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_features.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_icon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_section.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_split.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_spotlights.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_table.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/components/_wrapper.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/ie8.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/ie9.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/layout/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/layout/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/layout/_intro.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/layout/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/layout/_wrapper.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/libs/_functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/libs/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/libs/_skel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/libs/_vars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/sass/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/scss/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/buy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/detil.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/generic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/loginsucc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/test1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/初级流程1.graffle" />
+    </list>
+    <ignored path="honey.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/honey$urls.coverage" NAME="urls Coverage Results" MODIFIED="1451190922178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/honey" />
+    <SUITE FILE_PATH="coverage/honey$debug_runserver.coverage" NAME="debug-runserver Coverage Results" MODIFIED="1486631431701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="honey" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firpage/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/detil/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43514645">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <folding>
+                <element signature="e#15#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skim/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="e#15#50#0" expanded="true" />
+                <marker date="1486631417000" expanded="true" signature="2077:2102" placeholder="select * fro... Imformation" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detil.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/detil.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-30.172413">
+              <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/honey/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/css/style3.css" />
+        <option value="$PROJECT_DIR$/static/images/ImageAttribution.txt" />
+        <option value="$PROJECT_DIR$/static/css/zxmk.css" />
+        <option value="$PROJECT_DIR$/accounts/templates/register1.html" />
+        <option value="$PROJECT_DIR$/accounts/templates/index3.html" />
+        <option value="$PROJECT_DIR$/accounts/templates/index4.html" />
+        <option value="$PROJECT_DIR$/firpage/models.py" />
+        <option value="$PROJECT_DIR$/honey/model.py" />
+        <option value="$PROJECT_DIR$/firpage/templates/login.html" />
+        <option value="$PROJECT_DIR$/firpage/login.html" />
+        <option value="$PROJECT_DIR$/skim/url.py" />
+        <option value="$PROJECT_DIR$/skim/templates/detil.html" />
+        <option value="$PROJECT_DIR$/firpage/urls.py" />
+        <option value="$PROJECT_DIR$/accounts/templates/regsuss.html" />
+        <option value="$PROJECT_DIR$/accounts/test.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/test.html" />
+        <option value="$PROJECT_DIR$/static/test1.html" />
+        <option value="$PROJECT_DIR$/templates/test1.html" />
+        <option value="$PROJECT_DIR$/templates/loginsucc.html" />
+        <option value="$PROJECT_DIR$/skim/urls.py" />
+        <option value="$PROJECT_DIR$/skim/models.py" />
+        <option value="$PROJECT_DIR$/static/assets/css/9d47d451.ngapp-manage.css" />
+        <option value="$PROJECT_DIR$/static/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/detil/urls.py" />
+        <option value="$PROJECT_DIR$/static/assets/css/04146b04.main.css" />
+        <option value="$PROJECT_DIR$/static/assets/css/1978.css" />
+        <option value="$PROJECT_DIR$/buy/models.py" />
+        <option value="$PROJECT_DIR$/buy/views.py" />
+        <option value="$PROJECT_DIR$/static/assets/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/static/assets/css/rotating-card.css" />
+        <option value="$PROJECT_DIR$/templates/userdetil.html" />
+        <option value="$PROJECT_DIR$/static/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/accounts/templates/login.html" />
+        <option value="$PROJECT_DIR$/static/assets/js/index.js" />
+        <option value="$PROJECT_DIR$/templates/buy.html" />
+        <option value="$PROJECT_DIR$/static/assets/css/main1.css" />
+        <option value="$PROJECT_DIR$/accounts/urls.py" />
+        <option value="$PROJECT_DIR$/accounts/templates/regsucc.html" />
+        <option value="$PROJECT_DIR$/honey/urls.py" />
+        <option value="$PROJECT_DIR$/honey/settings.py" />
+        <option value="$PROJECT_DIR$/tools/forms.py" />
+        <option value="$PROJECT_DIR$/accounts/models.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/accounts/templates/userdetil.html" />
+        <option value="$PROJECT_DIR$/firpage/views.py" />
+        <option value="$PROJECT_DIR$/skim/views.py" />
+        <option value="$PROJECT_DIR$/honey/views.py" />
+        <option value="$PROJECT_DIR$/accounts/views.py" />
+        <option value="$PROJECT_DIR$/detil/views.py" />
+        <option value="$PROJECT_DIR$/templates/detil.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="detil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static/assets/css/images" />
+      <recent name="$PROJECT_DIR$/static/assets/css" />
+      <recent name="$PROJECT_DIR$/static/assets/js" />
+      <recent name="$PROJECT_DIR$/static/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/accounts/templates" />
+      <recent name="$PROJECT_DIR$/static/assets/js/ie" />
+      <recent name="$PROJECT_DIR$/static/assets/css/images" />
+      <recent name="$PROJECT_DIR$/static/assets/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.debug-runserver">
+    <configuration default="false" name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/honey" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/honey/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="8000">
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <module name="" />
+      <option name="PORT" value="8000" />
+      <option name="HOST" value="localhost" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.AppEngineServer" factoryName="App Engine server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="127.0.0.1" />
+      <option name="browserUrl" value="" />
+      <option name="additionalOptions" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <option name="launchJavascriptDebuger" value="true" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <envs />
+      <force value="false" />
+      <verbose value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="honey" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="honey.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <option name="launchJavascriptDebuger" value="true" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="debug-runserver" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Django server.honey" />
+      <item index="1" class="java.lang.String" itemvalue="Python.debug-runserver" />
+      <item index="2" class="java.lang.String" itemvalue="Python.urls" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.urls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30686b5e-333f-49d2-88bd-842cdbb63448" name="Default" comment="" />
+      <created>1448709218301</created>
+      <option name="number" value="Default" />
+      <updated>1448709218301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19791667" sideWeight="0.4960396" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882413" sideWeight="0.49201277" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43564355" sideWeight="0.5260916" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.4946752" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24956217" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3069307" sideWeight="0.4946752" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15548456" sideWeight="0.5039604" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3800813" sideWeight="0.48296058" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.121782176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43465346" sideWeight="0.47390842" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882413" sideWeight="0.49201277" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43564355" sideWeight="0.5260916" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.4946752" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25494277" sideWeight="0.48296058" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4782178" sideWeight="0.4946752" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18885018" sideWeight="0.4960396" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.121782176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24956217" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15548456" sideWeight="0.5039604" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4553459" sideWeight="0.47390842" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/accounts/templates/login.html</url>
+          <line>75</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/detil/urls.py</url>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="240" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.827587">
+          <caret line="1093" column="41" selection-start-line="1093" selection-start-column="41" selection-end-line="1093" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8965517">
+          <caret line="4113" column="24" selection-start-line="4113" selection-start-column="24" selection-end-line="4113" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/html5shiv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/PIE.htc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/respond.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/noscript.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/ie/html5shiv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/ie/PIE.htc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/ie/respond.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/avatar.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/images/weibo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/images/overlay.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/bg1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.503055">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/buy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6096537">
+          <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33245033">
+          <caret line="530" column="16" selection-start-line="530" selection-start-column="16" selection-end-line="530" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/main1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.690625">
+          <caret line="260" column="23" selection-start-line="260" selection-start-column="23" selection-end-line="260" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/db/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="253" column="0" selection-start-line="253" selection-start-column="0" selection-end-line="253" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/templates/regsucc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31707317">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.108571425">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-55.724136">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="547" column="0" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/utils/autoreload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="276" column="0" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/honey/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/core/handlers/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/contrib/staticfiles/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/wsgiref/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/core/servers/basehttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33222038">
+          <caret line="598" column="0" selection-start-line="598" selection-start-column="0" selection-end-line="598" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/utils/translation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="38.62963">
+          <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/初级流程1.graffle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/honey/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/templates/userdetil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-105.793106">
+          <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="465" column="22" selection-start-line="465" selection-start-column="22" selection-end-line="465" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="252" column="45" selection-start-line="252" selection-start-column="45" selection-end-line="252" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21757323">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skim/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#50#0" expanded="true" />
+            <marker date="1486631417000" expanded="true" signature="2077:2102" placeholder="select * fro... Imformation" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/detil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.172413">
+          <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/honey/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detil/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43514645">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

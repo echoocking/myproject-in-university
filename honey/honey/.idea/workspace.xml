@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b79dd62-37c9-44ad-9ae8-ed124308cf96" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.com.apple.timemachine.supported" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/img/contribution-sample.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/img/fort_awesome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/img/icon-flag.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/js/ZeroClipboard-1.1.7.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/images/weibo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/fonts/roboto-slab-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/blog-icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/blog-icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/blog-icon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/close2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/close2h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/facebookh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/facebooks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/fav-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/fax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/google+.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/map-pin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/nav-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/pic01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/pic02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/pic03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/pic04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/pic05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/pic06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/pic10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/pic12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/reply.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/search-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/search-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/search-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/single-post-pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/start-rate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/start-rateh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/twiter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/images/user-pic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/A.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/A.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/AA.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/AA_65ZCoLe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/AA_JVVBUkO.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/A_2Ifomep.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/A_7zwT7XD.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/A_J2eQlPZ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/A_e6vR7p8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/A_nTf7X3p.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/A_pTPoY0L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/S.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/VV.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/VV_AgeZzND.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b_BFtE7ZQ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b_NCkTMbq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b_NM7nLzV.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b_O9g1Y6k.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b_TVZ7Qn0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b_Y2bvrrd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b_e11JJsC.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b_e14Sw4i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/uplodeimages/b_jUYjuoT.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../初级流程1.graffle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/honey.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Django/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Django/.idea/Django.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Django/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Django/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Django/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Django/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Django/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/migrations/0002_user_email.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/templates/regsucc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../accounts/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../detil/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../detil/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../detil/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../firpage/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../firpage/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../firpage/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../firpage/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../firpage/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../firpage/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../firpage/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../firpage/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/honey.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/migrations/0002_auto_20160103_0503.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/migrations/0003_imfromation_username.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/migrations/0004_imfromation_picturename.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/migrations/0005_imfromation_booknumber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../skim/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/.ruby-version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/css/font-awesome-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/ads/carbon-dark-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/ads/carbon-light-horizontal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/ads/carbon-light-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/brand-license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/cheatsheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/community.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/community/getting-support.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/community/project-milestones.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/community/reporting-bugs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/community/requesting-new-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/community/submitting-pull-requests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/animated-spinner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/bordered-pulled.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/bulleted-lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/button-dropdowns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/button-groups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/form-inputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/inline-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/larger-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/rotated-flipped.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/examples/stacked.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/get-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/icons/brand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/icons/currency.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/icons/directional.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/icons/medical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/icons/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/icons/text-editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/icons/video-player.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/icons/web-application.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/jumbotron-slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/jumbotron.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/license-code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/stripe-ad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/stripe-social.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/tell-me-thanks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/tests/rotated-flipped-inside-anchor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/tests/rotated-flipped-inside-btn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/tests/rotated-flipped.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/tests/stacked-inside-anchor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/tests/stacked.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/thanks-to.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/whats-new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_includes/why.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_layouts/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_layouts/icon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_plugins/icon_page_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/_plugins/site.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/css/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/css/pygments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/js/ZeroClipboard-1.1.7.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/js/backbone.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/js/bootstrap-2.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/js/bootstrap-222.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/js/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/js/prettify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/js/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/js/underscore.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/hero-unit.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/labels-badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/layouts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-1200px-min.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-767px-max.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-768px-979px.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/sprites.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/bootstrap-2.3.2/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/lazy.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/responsive-1200px-min.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/responsive-767px-max.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/responsive-768px-979px.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/responsive-navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/site.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/sticky-footer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/assets/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/cheatsheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/community.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/design.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/get-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/icons.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/FontAwesome/src/whats-new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/04146b04.main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/1936a41e.icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/297ada75.home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/d04378b9.tools.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/ie9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/images/intro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/rotating-card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/11b853e1.main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/7422b346.vendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/d18f1a3a.home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/f8161886.ngapp-manage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/ie/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/ie/jquery.imagesloaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/ie/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/jquery.a.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/jquery.imagesloaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/jquery.scrollex.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/jquery.scrolly.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/jquery.wookmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/skel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/js/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/base/_page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/base/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_box.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_button.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_features.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_icon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_section.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_split.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_spotlights.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_table.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/components/_wrapper.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/ie8.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/ie9.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/layout/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/layout/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/layout/_intro.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/layout/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/layout/_wrapper.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/libs/_functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/libs/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/libs/_skel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/libs/_vars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/sass/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/assets/scss/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templates/detil.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templates/elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templates/generic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templates/loginsucc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templates/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../templates/test1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tools/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tools/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tools/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tools/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tools/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tools/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tools/views.py" />
+    </list>
+    <ignored path="honey.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="honey" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="84" />
+    <option name="y" value="126" />
+    <option name="width" value="1920" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="honey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Django server.honey">
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="honey" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="honey" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.honey" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b79dd62-37c9-44ad-9ae8-ed124308cf96" name="Default" comment="" />
+      <created>1452400151167</created>
+      <option name="number" value="Default" />
+      <updated>1452400151167</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="84" y="126" width="1920" height="1015" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2550586" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
